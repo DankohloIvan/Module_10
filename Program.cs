@@ -21,6 +21,8 @@ namespace Module_10
                     shop.ShowInfo();
                 }
 
+            // 4
+
             TestMemory(100_000);
             TestMemory(500_000);
             TestMemory(1_000_000);
